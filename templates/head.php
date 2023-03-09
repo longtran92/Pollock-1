@@ -9,6 +9,6 @@
 
   <!-- STYLESHEET -->
   <link rel="stylesheet" href="css/header-1.css">
-  <link rel="stylesheet" href="css/home-1.css">
-  <link rel="stylesheet" href="css/footer.css">
+  <link rel="stylesheet" href="css/home.css">
+  <link rel="stylesheet" href="css/footer-1.css">
 </head>
